@@ -17,3 +17,6 @@ $ jupyter notebook
 * Python 3
 * TensorFlow 1.0
 * Numpy
+
+## License
+The contents of this repository are covered under the [MIT License](https://github.com/TokyoIndex/dlnd_language_translation/blob/master/LICENSE).
